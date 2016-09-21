@@ -1,0 +1,90 @@
+nav ul li{
+	list-style: none;
+	overflow-y: auto;
+}
+
+.barra .navbar-brand{
+	color:#CCCA94;
+	font-family: "Merriweather";
+}
+.nav.navbar-nav.navbar-right li a{
+	color:#CCCA94;
+	font-family: "Open+Sans";
+
+}
+.navbar{
+	margin-bottom: -7%;
+}
+.barra{
+	background-color: #CE152B;
+}
+.helado{
+	background-color: rgba(0,0,0,0.5);
+	background-position: center;
+	padding: 20%;
+	background-attachment: fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
+.fondo{
+	
+	background-image: url(../img/creamy.jpg);
+	width: 100%;
+	height: 500px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	
+	
+}
+
+.titulo{
+	color:#CCCA94;
+	font-family: "Merriweather";
+	padding: 5%;	
+}
+.fondo-oh{
+	background-color: #F0EDAD;
+	padding: 5%;
+	color: #CE152B;
+	font-family: "Merriweather";
+}
+.about{
+	background-color: #CE152B;
+	font-family: "Merriweather";
+	color: #F0EDAD;
+	padding: 5%;
+
+}
+.fa{
+	font-size: 150px;
+	color:#CE152B;
+}
+.icon-cor{
+	background-color:#F0EDAD; 
+}
+.box{
+	color:#CE152B;
+	text-align: center;
+}
+.box h3{
+	font-family: "Merriweather";
+}
+.box{
+	padding-top: 4%;	
+}
+footer{
+	background-color:#CE152B;
+	color:#F0EDAD;
+	width: 100%;
+	padding-left:5%;
+	padding-top: 2%;
+	height: 100px; 
+	font-family: "Merriweather";
+}
